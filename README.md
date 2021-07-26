@@ -1,2 +1,2 @@
 # Test-Repo
-This is repository fot tsting
+This is repository fot testing
